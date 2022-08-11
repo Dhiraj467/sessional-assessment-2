@@ -1,2 +1,2 @@
 Hii
-This is a image search engine.
+This is a image search application
